@@ -1,4 +1,4 @@
-# market making algorithm
+# Market Making algorithm
 A trading algorithm works on algotrading competition on a proprietary trading platform developed by Optiver. The main file to execute is `algorithm.py`. The market making strategies adopted are cointegration and delta-hedging.
 ## Cointegration
 `cointegration_analysis.py` - analyse the relationship between stocks
